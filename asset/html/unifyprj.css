@@ -1,0 +1,37 @@
+a:hover{
+    color:black;
+}
+.font{
+    font-size:20%;
+    color: blue;
+   
+}
+.centered {
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    font-size:23;
+    transform: translate(-50%, -50%);
+    color: #FFF;
+    background-color: green;
+    line-height: 20px;
+}
+.centered1{
+    position: absolute;
+    top: 38%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    font-size:23;
+    color: #FFF;
+    background-color: rgba(0,0,0,0.3)
+}
+.video-container {
+    position:absolute;
+    padding-bottom: 56.25%;
+    padding-top: 30px; height:25; width=40%;
+}
+    
+
+
+
+
