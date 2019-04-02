@@ -1,0 +1,33 @@
+a:hover{
+    color:black;
+}
+.font{
+    font-size:20%;
+    color: blue;
+}
+.video-container {
+    position:absolute;
+    padding-bottom: 56.25%;
+    padding-top: 30px; height:25; width=40%;
+}
+.centered {
+    top: 35%;
+    left: 35%;
+    text-decoration:uppercase;
+    color:white;
+}
+.hea{
+    background-color:green;
+    padding: 3px
+}
+.heaa{
+    background:rgba(0, 0, 0, 0.5);
+    padding: 1px
+}
+.video{
+    position:right;
+}
+.padding-image{
+    padding-top: 100px;
+    padding-bottom: 100px
+}
